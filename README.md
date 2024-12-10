@@ -7,4 +7,4 @@
   <LI>MySQL</LI>
 </U>
 <P>Schema - IMDB Movie Database</P>
-![IMDB Dataset Schema](https://github.com/user-attachments/assets/63b8cd04-b691-4867-a080-bf1e0b78a2d8)
+![IMDB Dataset Schema](https://github.com/user-attachments/assets/781c285d-c16b-4a40-b92e-1a205f844eb7)
