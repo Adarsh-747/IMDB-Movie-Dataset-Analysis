@@ -7,5 +7,5 @@
   <LI>MySQL</LI>
 </U>
 <P>Schema - IMDB Movie Database</P>
-![IMDB Dataset Schema](https://github.com/Adarsh-747/IMDB-Movie-Dataset-Analysis/blob/main/IMDB%20Dataset%20Schema.png)
+![IMDB Dataset Schema](https://github.com/Adarsh-747/IMDB-Movie-Dataset-Analysis/blob/main/IMDB%20Dataset%20Schema.png ? raw = true)
 
